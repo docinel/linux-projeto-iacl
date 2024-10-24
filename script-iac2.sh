@@ -22,3 +22,4 @@ cd linux-site-dio-main
 cp -R * /var/www/html/
 
 echo "Fim..."
+#rdf
